@@ -7,7 +7,7 @@ Fun = Life
 ```math
 Problem solving = Life
 ```
-> I don't coding for the sake of coding. I coding to solve problems.
+> I don't code for the sake of coding. I code to solve problems.
 
 Let's have fun!
 
