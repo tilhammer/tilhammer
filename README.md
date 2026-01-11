@@ -1,13 +1,13 @@
 ```math
-Life = Fun
+Problem solving = Fun
 ```
 ```math
-Fun = Problem solving
+Fun = Life
 ```
 ```math
 Problem solving = Life
 ```
-> I don't code to code. I code to solve problems.
+> I don't coding for the sake of coding. I coding to solve problems.
 
 Let's have fun!
 
